@@ -3,7 +3,7 @@ A simple script which limits the amount of options that can be selected in a htm
 
 Example:
 {::nomarkdown}
-
+<!--
 <label for="exampleFormControlSelect2">Subcategory(Max of three)</label>
 <select multiple data-max="3">
     <option>1</option>
@@ -12,7 +12,7 @@ Example:
     <option>4</option>
     <option>5</option>
 </select>
-
+-->
 {:/}
 
 The data-max attribute sets the amount of options which can be selected.
